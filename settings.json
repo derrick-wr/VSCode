@@ -1,0 +1,15 @@
+//USER SETTINGS
+// Place your settings in this file to overwrite the default settings
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe",
+
+       // Controls if lines should wrap. The lines will wrap at min(editor.wrappingColumn, viewportWidthInColumns).
+    "editor.wordWrap": true,
+
+    // Insert snippets when their prefix matches. Works best when 'quickSuggestions' aren't enabled.
+    "editor.tabCompletion": true,
+
+        // Controls whether the editor should render indent guides
+    "editor.renderIndentGuides": true,
+    
+}
